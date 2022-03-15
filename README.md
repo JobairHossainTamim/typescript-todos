@@ -3,6 +3,7 @@
 ## Built With
 
 - JavaScript
+-TypeScript
 - NPM
 - HTML
 - CSS
